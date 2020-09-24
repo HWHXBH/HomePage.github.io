@@ -1,0 +1,181 @@
+# 基本信息
+<table border="0px">
+	<tr>
+		<th width="9%">
+			<p><b>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名</b></p>
+			<p><b>身&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高</b></p>
+			<p><b>民&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;族</b></p>
+			<p><b>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历</b></p>
+			<p><b>求职意向</b></p>
+		</th>
+		<td width="29%">
+			<p><b>何伟豪</b></p>
+			<p><b>176cm</b></p>
+			<p><b>汉族</b></p>
+			<p><b>本科</b></p>
+			<p><b>Java工程师</b></p>
+		</td>
+		<th width="9%">
+			<p><b>性&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;别</b></p>
+			<p><b>出生年月</b></p>
+			<p><b>政治面貌</b></p>
+			<p><b>毕业院校</b></p>
+			<p><b>邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱</b></p>
+		</th>
+			<td width="29%">
+			<p><b>男</b></p>
+			<p><b>1999.02</b></p>
+			<p><b>共青团团员</b></p>
+			<p><b>石家庄铁道大学</b></p>
+			<p><b>1983811697@qq.com</b></p>
+		</td>
+		<td width="24%">
+			<img src="images/face.jpg" width="100%">    
+		</td>
+	</tr>
+</table>
+
+# 专业技能
+<table border="0px">
+	<tr>
+		<td width="50%">
+			<p><b>计算机语言：</b>Java、Python、Android、C++、PHP、JS</p>
+			<p><b>数&nbsp;&nbsp;&nbsp;&nbsp;据&nbsp;&nbsp;&nbsp;&nbsp;库：</b>Mysql、SQL&nbsp;Server</p>
+		</td>
+		<td width="50%">
+			<p><b>操&nbsp;作&nbsp;系&nbsp;统：</b>Windows、Linux</p>
+			<p><b>编&nbsp;程&nbsp;工&nbsp;具：</b>IDEA、Eclipse、PyCharm</p>
+		</td>
+	</tr>
+</table>
+
+# 校内实践
+<table>
+	<tr>
+		<td>
+			<b>2019.05-2019.07</b>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>1、科技创新平台开发：实现了对数据的增删改查及其他基本功能；</b>
+			<ul>
+				<li>
+					实现了基本的 CRUD，模仿中国知网设计树状查询，多条件查询，一框式全文索引
+				</li>
+			</ul>	
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>2019.07-2019.09</b>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>2、三页本 APP 开发：独立开发了一款集记事本、便签本和记账本于一身的 APP；</b>
+			<ul>
+				<li>
+					用到了 Material 控件、碎片（UI 片段）等使界面更加美观
+				</li>
+				<li>
+					用到了 Echarts 使数据可视化展示
+				</li>
+				<li>
+					用到了 js 进行一些数据处理
+				</li>
+				<li>
+					用到了 SQLite 实现了数据的持久化存储
+				</li>
+			</ul>	
+		</td>
+	</tr>
+	<tr>
+		<td>
+			&nbsp;
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>2020.07-2020.08</b>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>3、基于计算机视觉的交通场景智能应用开发：可识别并记录违规车辆和统计路口汽车流量</b>
+			<ul>
+				<li>
+					用到了 OpenCV 对视频进行分帧处理，并分割成合适的图片
+				</li>
+				<li>
+					针对图片使用 YOLOV3 对图像进行目标检测
+				</li>
+				<li>
+					对检测后的目标使用 Deep_Sort 进行目标跟踪
+				</li>
+			</ul>	
+		</td>
+	</tr>
+</table>
+
+# 奖惩情况
+<table>
+	<tr>
+		<td>
+			<ul>
+				<li>
+					<p>普通话二级甲等</p>
+				</li>
+				<li>
+					<p>社团联合会荣获优秀部员称号</p>
+				</li>	
+				<li>
+					<p>2019 年荣获优秀团员称号</p>
+				</li>	
+				<li>
+					<p>易班轻应用设计大赛荣获二等奖</p>
+				</li>	
+				<li>
+					<p>“东软杯”程序设计大赛荣获优秀奖</p>
+				</li>		
+				<li>
+					<p>“教室派”软件著作权</p>
+				</li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
+# 爱好特长
+<table>
+	<tr>
+		<td>
+			<ul>
+				<li>
+					<p>酷爱运动（擅长羽毛球）</p>
+				</li>
+				<li>
+					<p>喜欢阅读各类书籍</p>
+				</li>	
+				<li>
+					<p>自学能力强、抗压能力强</p>
+				</li>	
+				
+			</ul>
+		</td>
+	</tr>
+</table>
+
+# 自我评价
+<table>
+	<tr>
+		<td>
+			能吃苦（来自农村，从小就干农活），自律能力较强，思想积极，上进心强，善于沟通，有较强的团队精神，但是缺少实践工作经验，我期待在实践中去学习去锻炼去提高自己。
+		</td>
+	</tr>
+</table>
